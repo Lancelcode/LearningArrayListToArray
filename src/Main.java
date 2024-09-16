@@ -18,7 +18,6 @@ public class Main {
         namesArray = namesList.toArray(namesArray); /*The 'namesList.toArray(namesArray)' method
                                                     copies the elements from the 'namesList' ArrayList
                                                     into the 'namesArray' and returns the array. */
-
         System.out.println(Arrays.toString(namesArray));
     }
 }
